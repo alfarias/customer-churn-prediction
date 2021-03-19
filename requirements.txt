@@ -74,7 +74,7 @@ parso==0.7.0
 pexpect==4.8.0
 phik==0.10.0
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==8.1.1
 pipreqs @ git+https://github.com/deepnote/pipreqs.git@5c94fac42a8ddd19eabd75e3de8e84bb8120afd1
 plac==1.1.3
 plotly==4.8.2
